@@ -1,4 +1,4 @@
-# Fujitsu Lifebook U748 Hackintosh
+# Fujitsu Lifebook U748/U749 Hackintosh
 
 ![pol_pl_Fujitsu-LifeBook-U748-Core-i7-8550U-8-gen-1-8-GHz-8-GB-240-SSD-14-FullHD-Win-11-Prof-Update-22762_3](https://github.com/KrzysiuWojcik/Fujitsu-Lifebook-U748-Hackintosh/assets/36552450/26fe46df-1f7c-4293-b7e9-2ad960ddf2fa)
 
