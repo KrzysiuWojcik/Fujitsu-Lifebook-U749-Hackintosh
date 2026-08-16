@@ -9,7 +9,8 @@
 
 ## Tahoe 26.1
 ```diff
-! Work in progress 
+! Work in progress
++ macOS installer works
 ```
 
 # U748 archive
