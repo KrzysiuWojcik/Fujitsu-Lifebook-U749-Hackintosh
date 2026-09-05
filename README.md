@@ -7,11 +7,31 @@
 
 # U749 current
 
-## Tahoe 26.1
+## Tahoe 26.6.1
 ```diff
-! Work in progress
-+ macOS installer works
++ Works in general
 ```
+
+### What's working and what's not?
+
+- [x] Boots, sleeps and wakes
+- [x] iGPU - Intel UHD 630 with full QE/CI
+- [ ] Wi-Fi - neither Itlwm or AirportItlwm have versions for Tahoe
+- [x] Bluetooth - working with Low Energy accessories
+- [ ] GSM modem - untested, you can try moving KEXT from older release and edit your config.plist. For connecting to internet see Ventura notes
+- [x] SmartCard reader (shows up in System Info, can't test properly)
+- [ ] SDXC card reader - not even tried to make it work.
+- [x] ELAN I<sup>2</sup>C Touchpad (buttons working perfectly)
+- [ ] Function keys not working. You can set brightness & volume levels in control center
+- [x] Battery time is decent
+- [x] Power management (lower frequency on idle, turbo boost on stress)
+- [ ] M.2 SATA SSD - untested
+- [x] M.2 NVMe SSD
+- [x] Audio is working, but you need to use Tahoe's Kext Installer method available online
+- [x] Continuity Camera works over USB
+- [ ] HandOff not working because of no Wi-Fi
+- [x] External video output is working perfectly on USB-C Thunderbolt port. HDMI port not tested.
+- [ ] 
 
 # U748 archive
 
