@@ -18,7 +18,7 @@
 - [x] iGPU - Intel UHD 630 with full QE/CI
 - [ ] Wi-Fi - neither Itlwm or AirportItlwm have versions for Tahoe
 - [x] Bluetooth - working with Low Energy accessories
-- [ ] GSM modem - untested, you can try moving KEXT from older release and edit your config.plist. For connecting to internet see Ventura notes
+- [ ] GSM modem - untested, you can try moving KEXT from older release and edit your config.plist. For connecting to internet see Ventura/Monterey notes
 - [x] SmartCard reader (shows up in System Info, can't test properly)
 - [ ] SDXC card reader - not even tried to make it work.
 - [x] ELAN I<sup>2</sup>C Touchpad (buttons working perfectly)
